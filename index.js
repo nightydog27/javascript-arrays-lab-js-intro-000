@@ -17,9 +17,9 @@ var kittens = ["Milo", "Otis", "Garfield"]
 }
 
 /function appendKitten(name) {
-  
+
 }
 
 /function prependKitten(name) {
-  
+
 }
